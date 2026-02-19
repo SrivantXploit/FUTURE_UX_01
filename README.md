@@ -84,7 +84,7 @@ To improve conversion rates, the following trust elements are prioritized in the
 
 ## 🛠️ Tech Stack (Design)
 
-* **Prototyping Tool:** Uizard
+* **Prototyping Tool:** canva
 * **Assets:** AI-generated professional layouts and vector components.
 * **Framework Focus:** React-ready UI structure for future development.
 
